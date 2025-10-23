@@ -1,0 +1,31 @@
+# Binaries and build artifacts
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Go coverage and profiling
+*.out
+*.coverprofile
+profile.*
+
+# Local configuration
+.env
+*.env
+
+# Generated campaign reports
+reports/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# macOS metadata
+.DS_Store
+# AGENTS code 
+AGENTS.md
+
